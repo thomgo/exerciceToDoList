@@ -1,8 +1,17 @@
 # Exercices todolist en HTML et css
 
-Il s'agit d'un exercice que j'ai produit dans le cadre de mon activité de formateur en développement web. L'objectif étant pour les apprenants de réaliser un front basique où il travailleront le positionnement de cartes et la mise en forme. Exercice également accessible à : 
+Il s'agit d'un exercice que j'ai produit dans le cadre de mon activité de formateur en développement web. L'objectif étant pour les apprenants de réaliser un front basique où il travailleront le positionnement de cartes et la mise en forme. Ils apprennent notamment à baliser une page et utiliser différentes méthodes de positionnement. Exercice également accessible à :
 
 https://skillcode.fr/exercice-css-projets-finaux/
+
+L'exercice est donné pendant les toutes premières semaines de formation du fait de sa simplicité. Au travers de cet exercice, les étudiants apprennent à :
+- Démarrer un projet web sans back-end
+- Charger un fichier CSS dans un fichier HTML
+- Utiliser les principales balises HTML
+- Utiliser la sémentique adéquate
+- Structurer une page de manière cohérente
+- Appliquer des styles de base (couleurs, polices, backgrounds, tailles)
+- Positionner les éléments grâce au display ou à flexbox
 
 ## Consignes
 
@@ -32,7 +41,7 @@ Vous êtes libre de réaliser cet exercice comme vous le souhaitez, tant que vou
 
 - vous utiliserez les différentes propriétés vues jusqu'à présent pour styliser votre page (couleurs, bordures, ombres...)
 
-N'oubliez surtout pas de commentez votre code !
+N'oubliez surtout pas de commenter votre code !
 
 Pour aller plus loin vous pouvez essayer d'intégrer des icônes à votre site, ils rendent l'expérience utilisateur plus agréable. Je vous laisse faire vos recherches, il y a de nombreux sites sur internet qui proposent d'intégrer ce service sur vos pages.
 
